@@ -1,0 +1,11 @@
+---
+version: "3.7"
+services:
+  redis:
+    image: redis:latest
+    expose:
+      - 6379:6379
+    networks:
+      - external_network 
+networks:
+  external_network:
