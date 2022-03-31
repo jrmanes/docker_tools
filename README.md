@@ -13,6 +13,12 @@ Some useful resources for docker.
 
 ---
 
+## Requirements
+- [x] Docker installed
+- [x] Docker Compose installed
+
+---
+
 ## How to setup
 
 - First, go to the folder that you want to setup.
