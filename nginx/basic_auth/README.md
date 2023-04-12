@@ -14,7 +14,7 @@ This is can be useful if you need to setup a simple basic auth in your server.
 
 ## How to use it?
 
-You need to have installed `docker-compsoe` and execute the following command.
+You need to have installed `docker-compose` and execute the following command.
 
 ```bash
 docker-compose up -d
