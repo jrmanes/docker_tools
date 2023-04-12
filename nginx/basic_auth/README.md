@@ -1,6 +1,6 @@
 # Nginx - Basic Auth
 
-## Description
+## Description
 
 This folder contains some files for setting up a nginx with basic auth.
 
